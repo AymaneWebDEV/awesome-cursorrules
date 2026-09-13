@@ -239,7 +239,6 @@ By adding selected `.mdc` files to `.cursor/rules/`, you can use these rules dir
 ### Build Tools and Development
 
 - [AI Agent Specialist](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/ai-agent-specialist.mdc) - TypeScript, React, Node.js, clean architecture, testing, and WHY-oriented engineering guidance.
-- [Production Prompt Vault](https://github.com/AymaneWebDEV/developer-prompt-vault) - Production-ready system prompts and .cursorrules for clean architecture, SOLID refactoring, and hermetic unit testing.
 - [Alpha Skills](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/alpha-skills-quant-factor-research.mdc) - Quantitative factor research skills for Cursor. Evaluate factors, run backtests, mine new alpha through natural language.
 - [Anti-Over-Engineering](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/anti-overengineering.mdc) - Keeping changes scoped, simple, and directly tied to the user's request.
 - [Anti-Sycophancy Code Discipline](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/anti-sycophancy-code-discipline-cursorrules-prompt-file.mdc) - 17 directives blocking the most common LLM coding honesty failures: hallucinated APIs, invented signatures, false-confidence validation, manufactured-urgency capitulation, authority-driven softening, and self-referential comments. Drop the `.mdc` in `.cursor/rules/`.
@@ -256,6 +255,7 @@ By adding selected `.mdc` files to `.cursor/rules/`, you can use these rules dir
 - [Linux (NVIDIA CUDA, Python)](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/linux-nvidia-cuda-python-cursorrules-prompt-file.mdc) - Linux development with NVIDIA CUDA and Python integration.
 - [Network Troubleshooting](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/network-troubleshoot.mdc) - Safety-first diagnostics for developer network failures with target-scoped checks, TLS and proxy guardrails, and user-approved remediation.
 - [Optimize (DRY, SOLID Principles)](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/optimize-dry-solid-principles-cursorrules-prompt-f.mdc) - Optimization development with DRY and SOLID principles integration.
+- [Production Prompt Vault](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/production-prompt-vault.mdc) - Clean architecture, SOLID refactoring, and hermetic unit testing rules.
 - [Project Epic Template](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/project-epic-template-cursorrules-prompt-file.mdc) - Project development with epic template integration.
 - [Python Containerization](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/python-containerization-cursorrules-prompt-file.mdc) - Python development with containerization integration.
 - [Python (GitHub Setup)](https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/python-github-setup-cursorrules-prompt-file.mdc) - Python development with GitHub setup integration.
